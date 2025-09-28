@@ -1,5 +1,12 @@
 <br clear="both">
 
+
+<div align="center">
+  <img src="https://www.canva.com/design/DAG0Tw17rww/zkxqx4O2JZL5SoxWH26OFQ/edit?utm_content=DAG0Tw17rww&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100%" alt="Naileth Salazar Banner" />
+</div>
+
+<br/>
+
 <h3 align="center">Hi! My name is naileth salazar and I'm from venezuela</h3>
 
 ###
@@ -47,19 +54,15 @@
 
 <br clear="both">
 
-
-
 ###
 
 <!--
-**nailethsalazar49-commits/nailethsalazar49-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**nailethsalazar49-commits/nailethsalazar49-commits** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
