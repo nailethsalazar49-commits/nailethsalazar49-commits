@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.canva.com/design/DAG0Tw17rww/zkxqx4O2JZL5SoxWH26OFQ/edit?utm_content=DAG0Tw17rww&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100%" alt="Naileth Salazar Banner" />
+  <img src=https://github.com/nailethsalazar49-commits/nailethsalazar49-commits/blob/main/naileth%20salazar.png alt="Naileth Salazar Banner" />
 </div>
 
 <br/>
