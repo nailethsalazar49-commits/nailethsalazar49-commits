@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src=https://github.com/nailethsalazar49-commits/nailethsalazar49-commits/blob/main/naileth%20salazar.png alt="Naileth Salazar Banner" />
+
 </div>
 
 <br/>
